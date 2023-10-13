@@ -1,1 +1,1 @@
-# SesliYard-mc-
+# SesliYardımcı ile çeşitli isteklerin yerine getirilmesi 
